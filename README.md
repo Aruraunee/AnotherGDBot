@@ -55,7 +55,3 @@ Una vez ya terminado el proceso, podrás correr el siguiente comando en la líne
 node index.js
 ```
 PD: Esto es dentro de la carpeta del bot, exactamente en la que está el index.js
-
-## Programador del bot.
-
-- Softer.#3299
